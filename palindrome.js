@@ -12,6 +12,6 @@ if (backward === word) {
     console.log("true");
     return true;
 } else {
-    console.log("true");
+    console.log("false");
     return false;
 }
