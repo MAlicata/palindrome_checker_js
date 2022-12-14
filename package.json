@@ -4,6 +4,7 @@
   "description": "this is repository for development exercise where check word if a palindrome",
   "main": "index.js",
   "scripts": {
+    "start": "run palindrome",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
