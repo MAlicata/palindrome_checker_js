@@ -1,0 +1,19 @@
+{
+  "name": "palindrome_checker_js",
+  "version": "1.0.0",
+  "description": "this is repository for development exercise where check word if a palindrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAlicata/palindrome_checker_js.git"
+  },
+  "author": "Matías Jesús Alicata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAlicata/palindrome_checker_js/issues"
+  },
+  "homepage": "https://github.com/MAlicata/palindrome_checker_js#readme"
+}
